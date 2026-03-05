@@ -1,0 +1,4 @@
+langgraph
+litai
+tenacity
+bedrock-agentcore
