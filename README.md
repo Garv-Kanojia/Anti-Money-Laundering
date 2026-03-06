@@ -1,4 +1,4 @@
-# The Financial Crime Sherlock
+# Anti Money Laundering System
 
 ## Overview
 
@@ -29,7 +29,7 @@ This system improves "smurfing" detection from **65% to 80%** using a Heterogene
 
 ## Acknowledgements and References
 
-The GNN model architecture in `GNN_Deployment/codes/GNN_create.py` is based on the Heterogeneous MPNN implementation by [fredjo89](https://github.com/fredjo89/heterogeneous-mpnn).
+The GNN model architecture in `GNN_Deployment/codes/GNN_create.py` is based on the Heterogeneous MPNN implementation by [fredjo89](https://github.com/fredjo89).
 
 - Project reference: https://github.com/fredjo89/heterogeneous-mpnn
 - Paper reference: https://arxiv.org/abs/2307.13499
