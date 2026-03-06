@@ -4,8 +4,6 @@
 
 Developed a money laundering fraud detector using a Heterogeneous Graph Neural Network (GNN) and Knowledge Graphs, combined through Agentic AI and deployed with AWS Bedrock AgentCore.
 
-This system improves "smurfing" detection from **65% to 80%** using a Heterogeneous GNN over XGBoost, trained on the IBM AML dataset. The complete solution achieves an **AUC-ROC of 85%** by combining the GNN and AI agents.
-
 ## Features
 
 - **Heterogeneous Graph Neural Network (GNN):** Uses a custom Heterogeneous Message Passing Neural Network (`HMPNN`) to classify accounts and detect fraudulent transaction patterns.
